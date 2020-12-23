@@ -16,7 +16,7 @@ div#subtitle {
     position: absolute;
     bottom: 75vh;
     left: 0px;
-    background: linear-gradient(to right, rgb(252, 236, 252) 0px, rgb(251, 166, 225) 50%, rgb(253, 137, 215) 51%, rgb(255, 124, 216) 100%) text;
+    background: transparent;
     font-family: 'Poppins', sans-serif;
     font-size: calc( 1.5vh + 1.5vw );
     font-weight: 500;
@@ -32,8 +32,6 @@ div#subtitle {
     text-align: left;
     width: auto;
     height: auto;
-    -webkit-text-fill-color: transparent;
-    text-shadow: none;
 }
 
 div#hero {
