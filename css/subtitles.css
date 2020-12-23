@@ -18,10 +18,10 @@ div#subtitle {
     left: 0px;
     background: transparent;
     font-family: 'Poppins', sans-serif;
-    font-size: calc( 1.5vh + 1.5vw );
+    font-size: calc( 2vh + 2vw );
     font-weight: 500;
     line-height: calc( 4vh + 3vw );
-    color: #fefef2;
+    color: #pink;
     text-shadow: 3px 1px 4px #222;
     display: flex;
     flex-direction: column;
